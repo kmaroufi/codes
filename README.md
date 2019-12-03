@@ -7,3 +7,4 @@
 * [Signals And Systems](https://github.com/kmaroufi/Signal-And-Systems)
 * [Numerical Methods](https://github.com/kmaroufi/Numerical-Mehtods)
 * [Java Project (Children of Time)](https://github.com/kmaroufi/Java-Project-Children-Of-Time)
+* [Artificial Intelligence](https://github.com/kmaroufi/Artificial-Intelligence)
